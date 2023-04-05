@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DS_GWAK_CS_Study/1.0.0": {
+        "runtime": {
+          "DS_GWAK_CS_Study.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DS_GWAK_CS_Study/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

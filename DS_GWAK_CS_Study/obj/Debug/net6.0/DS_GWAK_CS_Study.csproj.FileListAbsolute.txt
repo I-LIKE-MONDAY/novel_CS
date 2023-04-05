@@ -1,0 +1,15 @@
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\bin\Debug\net6.0\DS_GWAK_CS_Study.exe
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\bin\Debug\net6.0\DS_GWAK_CS_Study.deps.json
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\bin\Debug\net6.0\DS_GWAK_CS_Study.runtimeconfig.json
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\bin\Debug\net6.0\DS_GWAK_CS_Study.dll
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\bin\Debug\net6.0\DS_GWAK_CS_Study.pdb
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\obj\Debug\net6.0\DS_GWAK_CS_Study.csproj.AssemblyReference.cache
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\obj\Debug\net6.0\DS_GWAK_CS_Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\obj\Debug\net6.0\DS_GWAK_CS_Study.AssemblyInfoInputs.cache
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\obj\Debug\net6.0\DS_GWAK_CS_Study.AssemblyInfo.cs
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\obj\Debug\net6.0\DS_GWAK_CS_Study.csproj.CoreCompileInputs.cache
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\obj\Debug\net6.0\DS_GWAK_CS_Study.dll
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\obj\Debug\net6.0\refint\DS_GWAK_CS_Study.dll
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\obj\Debug\net6.0\DS_GWAK_CS_Study.pdb
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\obj\Debug\net6.0\DS_GWAK_CS_Study.genruntimeconfig.cache
+C:\VS_Gwak\DS_GWAK_CS_Study\DS_GWAK_CS_Study\obj\Debug\net6.0\ref\DS_GWAK_CS_Study.dll
